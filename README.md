@@ -9,7 +9,6 @@ Enjoy a game of Tic Tac Toe with a friend and see who can get three in a row fir
 ![Game Preview 2](preview-image(2).png)
 
 ## Features
-
 - **User-friendly Interface:** An intuitive and easy-to-use interface for an enjoyable gaming experience.
 - **Two-player Mode:** Play against a friend and challenge each other.
 - **Winning Logic:** The game automatically detects a winning sequence and announces the winner.
