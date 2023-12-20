@@ -15,7 +15,8 @@ Enjoy a game of Tic Tac Toe with a friend and see who can get three in a row fir
 - **Reset:** Start a new game with the reset functionality.
 
 ## How to Play
-Check out the [live demo](https://ritwika-14.github.io/TIC-TAC-TOE/) to see in action.
+
+Check out the [game](https://ritwika-14.github.io/TIC-TAC-TOE/) to see in action.
 
 1. Clone the repository to your local machine.
    git clone https://github.com/Ritwika-14/TIC-TAC-TOE.git
