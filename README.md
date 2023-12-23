@@ -5,8 +5,8 @@ Enjoy a game of Tic Tac Toe with a friend and see who can get three in a row fir
 
 ## Preview
 
-![Game Preview 1](preview-image(1).png)
-![Game Preview 2](preview-image(2).png)
+<!-- ![Game Preview 1](preview-image(1).png)
+![Game Preview 2](preview-image(2).png) -->
 
 ## Features
 - **User-friendly Interface:** An intuitive and easy-to-use interface for an enjoyable gaming experience.
